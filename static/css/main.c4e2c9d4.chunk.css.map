@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AAAA,KACE,iBACF,CAEA,cACE,iBAAkB,CAClB,OAAQ,CACR,QAAS,CACT,8BACF","file":"main.c4e2c9d4.chunk.css","sourcesContent":[".app {\n  text-align: center;\n}\n\n.primary-show {\n  position: absolute;\n  top: 50%;\n  left: 50%;\n  transform: translate(-50%, -50%);\n}\n"]}
